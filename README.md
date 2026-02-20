@@ -8,28 +8,28 @@ Tenho 16 anos, sou de Campinas e atualmente moro em Araraquara, Brasil. Estou cu
 Meu principal objetivo é cursar uma faculdade no exterior em Engenharia de software ou Ciência da Computação, áreas pelas quais sou apaixonado e nas quais pretendo atuar profissionalmente. No momento, estou em busca de oportunidades de estágio na área de tecnologia para ganhar experiência prática e aprofundar meus conhecimentos.
 
 <p>
-    <a href="https://github.com/Quasaralt1?tab=repositories&sort=stargazers">
+    <a href="https://github.com/Murilo-Mattia?tab=repositories&sort=stargazers">
         <img 
             alt="Total de Estrelas" 
             title="Total de Estrelas no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/Quasaralt1?color=7a7a7a&style=for-the-badge&labelColor=3b3b3b&logo=star&label=Estrelas"
         />
     </a>
-    <a href="https://github.com/Quasaralt1?tab=repositories&type=forks">
+    <a href="https://github.com/Murilo-Mattia?tab=repositories&type=forks">
         <img 
             alt="Total of Forks" 
             title="Total de forks no Github" 
             src="https://custom-icon-badges.demolab.com/github/stars/Quasaralt1?color=7a7a7a&style=for-the-badge&labelColor=3b3b3b&logo=fork&label=Forks"
         />
     </a>
-    <a href="https://github.com/Quasaralt1?tab=followers">
+    <a href="https://github.com/Murilo-Mattia?tab=followers">
         <img 
             alt="Total Followers" 
             title="Total de Seguidores no Github" 
             src="https://custom-icon-badges.demolab.com/github/followers/Quasaralt1?color=7a7a7a&labelColor=3b3b3b&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <a href="https://komarev.com/ghpvc/?username=Quasaralt1">
+    <a href="https://komarev.com/ghpvc/?username=Murilo-Mattia">
   <img 
     alt="Visualizações de perfil" 
     title="Visualizações de perfil" 
