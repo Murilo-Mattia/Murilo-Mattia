@@ -10,31 +10,31 @@ I'm a 16 years old student from Campinas, currently living in Araraquara, Brazil
 My main goal is to pursue a degree abroad in software Engineering or Computer science, areas I'm passionate about and plan to work in professionally. I'm currently seeking internship opportunities in the tech field to gain hands-on experience and deepen my knowledge.
 
 <p align="left">
-    <a href="https://github.com/Quasaralt1?tab=repositories&sort=stargazers">
+    <a href="https://github.com/Murilo-Mattia?tab=repositories&sort=stargazers">
         <img 
             alt="Total Stars" 
             title="GitHub Total Stars" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Quasaralt1?color=7a7a7a&style=for-the-badge&labelColor=3b3b3b&logo=star&label=Stars"
+            src="https://custom-icon-badges.demolab.com/github/stars/Murilo-Mattia?color=7a7a7a&style=for-the-badge&labelColor=3b3b3b&logo=star&label=Stars"
         />
-    <a href="https://github.com/Quasaralt1?tab=repositories&type=forks">
+    <a href="https://github.com/Murilo-Mattia?tab=repositories&type=forks">
         <img 
             alt="Total of Forks" 
             title="GitHub Total Forks" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Quasaralt1?color=7a7a7a&style=for-the-badge&labelColor=3b3b3b&logo=fork&label=Forks"
+            src="https://custom-icon-badges.demolab.com/github/stars/Murilo-Mattia?color=7a7a7a&style=for-the-badge&labelColor=3b3b3b&logo=fork&label=Forks"
         />
     </a>
-    <a href="https://github.com/Quasaralt1?tab=followers">
+    <a href="https://github.com/Murilo-Mattia?tab=followers">
         <img 
             alt="Total Followers" 
             title="GitHub Total Followers" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Quasaralt1?color=7a7a7a&labelColor=3b3b3b&style=for-the-badge&logo=github&label=Followers&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/Murilo-Mattia?color=7a7a7a&labelColor=3b3b3b&style=for-the-badge&logo=github&label=Followers&logoColor=white"
         />
     </a>
-    <a href="https://komarev.com/ghpvc/?username=Quasaralt1">
+    <a href="https://komarev.com/ghpvc/?username=Murilo-Mattia">
   <img 
     alt="Visualizações de perfil" 
     title="Visualizações de perfil" 
-    src="https://komarev.com/ghpvc/?username=Quasaralt1&label=Views&color=7a7a7a&style=for-the-badge&labelColor=3b3b3b" 
+    src="https://komarev.com/ghpvc/?username=Murilo-Mattia&label=Views&color=7a7a7a&style=for-the-badge&labelColor=3b3b3b" 
   />
 </a>
 
@@ -67,19 +67,19 @@ My main goal is to pursue a degree abroad in software Engineering or Computer sc
 ### 📊 Stats  
 <p align="left">
   <img 
-    src="https://github-readme-streak-stats-lake-sigma.vercel.app?user=Quasaralt1&theme=dark&hide_border=false&border_radius=10" 
+    src="https://github-readme-streak-stats-lake-sigma.vercel.app?user=Murilo-Mattia&theme=dark&hide_border=false&border_radius=10" 
     alt="GitHub Streak" 
     height="200"
   />
   <img 
     alt="Estatísticas do GitHub" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=Quasaralt1&show_icons=true&theme=dark&include_all_commits=true" 
+    src="https://github-readme-stats.vercel.app/api?username=Murilo-Mattia&show_icons=true&theme=dark&include_all_commits=true" 
   />
   <img 
     alt="Most used Languages" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quasaralt1&theme=dark&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murilo-Mattia&theme=dark&layout=compact"
   />
 </p>
 
@@ -95,7 +95,7 @@ My main goal is to pursue a degree abroad in software Engineering or Computer sc
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Quasaralt1/Quasaralt1/blob/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Quasaralt1/Quasaralt1/blob/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/Quasaralt1/Quasaralt1/blob/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Murilo-Mattia/Murilo-Mattia/blob/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Murilo-Mattia/Murilo-Mattia/blob/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/Murilo-Mattia/Murilo-Mattia/blob/output/github-snake-dark.svg">
 </picture>
