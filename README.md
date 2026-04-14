@@ -80,7 +80,7 @@ Meu principal objetivo é cursar uma faculdade no exterior em Engenharia de soft
   <img 
     alt="Linguagens Mais Usadas" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murilo-Mattia&theme=dark&layout=compact&locale=pt-BR"
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Murilo-Mattia&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
   />
 </p>
 
