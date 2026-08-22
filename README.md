@@ -4,7 +4,7 @@
 
 **`Estudante de Desenvolvimento de Sistemas`**
 
-Tenho 17 anos, sou de Campinas e atualmente moro em Araraquara, Brasil. Estou cursando o ensino médio no SESI junto com um curso técnico integrado em Manutenção Automotiva no SENAI. Sou formado em Desenvolvimento de Sistemas na ETEC, certificado pela Microsoft na modalidade Excel MOS-2019 e participo ativamente da equipe de robótica da minha escola, competindo na Olimpíada Brasileira de Robótica (OBR).  
+Tenho 17 anos, sou de Campinas e atualmente moro em Araraquara, Brasil. Estou cursando o ensino médio no SESI junto com um curso técnico integrado em Manutenção Automotiva no SENAI. Sou formado em Desenvolvimento de Sistemas na ETEC, obtive o certificado Microsoft na modalidade Excel MOS-2019, participando também da modalidade nacional de Excel MOS-2019 ocorrida em 2026, e participo ativamente da equipe de robótica da minha escola, competindo na Olimpíada Brasileira de Robótica (OBR).  
 Meu principal objetivo é cursar uma faculdade no exterior em Robótica ou Inteligencia Artifical Aplicada, áreas pelas quais sou apaixonado e nas quais pretendo atuar profissionalmente. No momento, estou em busca de oportunidades de estágio na área de tecnologia para ganhar experiência prática e aprofundar meus conhecimentos.
 
 <p>
