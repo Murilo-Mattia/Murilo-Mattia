@@ -6,7 +6,7 @@
 
 **`System Development Student`**
 
-I'm a 16 years old student from Campinas, currently living in Araraquara, Brazil. I'm attending high school at SESI, along with an integrated technical course in Automotive Maintenance at SENAI. I'm also studying Systems Development at ETEC and actively participate in my school's robotics team, competing in the Brazilian Robotics Olympiad (OBR).
+I'm a 17 years old student from Campinas, currently living in Araraquara, Brazil. I'm attending high school at SESI, along with an integrated technical course in Automotive Maintenance at SENAI. I'm graduated in Systems Development at ETEC, got a certification by microsoft on Excel MOS-2019. I also participated from the 2026 Brazilian National MOS-2019 competition, and I actively participate in my school's robotics team, competing in the Brazilian Robotics Olympiad (OBR).
 My main goal is to pursue a degree abroad in software Engineering or Computer science, areas I'm passionate about and plan to work in professionally. I'm currently seeking internship opportunities in the tech field to gain hands-on experience and deepen my knowledge.
 
 <p align="left">
